@@ -26,12 +26,17 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 ├── 17 - Jogo da Forca
 ├── 18 - Estrutura de Dados - Lista Ligada
 ├── 19 - Arquivo de Texto
-└── 20 - Calculadora de Matrizes
-
+├── 20 - Calculadora de Matrizes
+├── 21 - Algoritmo de Dijkstra
+├── 22 - Recursão
+├── 23 - Simulação de Banco de Dados
+├── 24 - Análise de Arquivos CSV
+└── 25 - Implementação de um Algoritmo de Compressão
 ```
 
 ## Descrição dos Exercícios
 
+### Básico
 
 - **01 - Hello World**: Exibe "Hello, World!" na tela.
 - **02 - Entrada e Saída**: Lê um nome do usuário e exibe uma saudação personalizada.
@@ -43,6 +48,9 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 - **08 - Verificação de Número Primo**: Verifica se um número é primo.
 - **09 - Sequência de Fibonacci**: Gera e exibe os primeiros N números da sequência de Fibonacci.
 - **10 - Contagem de Palavras**: Conta o número de palavras em uma frase fornecida pelo usuário.
+
+### Intermediário
+
 - **11 - Ordenação de Vetores**: Ordena um vetor de números inteiros usando o método Bubble Sort.
 - **12 - Busca Binária**: Encontra um elemento em um vetor ordenado usando busca binária.
 - **13 - Matriz Transposta**: Exibe a transposta de uma matriz fornecida.
@@ -54,6 +62,14 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 - **19 - Arquivo de Texto**: Lê e escreve em arquivos de texto.
 - **20 - Calculadora de Matrizes**: Realiza operações básicas com matrizes (adição, subtração).
 
+### Avançado
+
+- **21 - Algoritmo de Dijkstra**: Encontra o caminho mais curto em um grafo usando o algoritmo de Dijkstra.
+- **22 - Recursão**: Resolve um problema clássico (como a Torre de Hanoi) usando recursão.
+- **23 - Simulação de Banco de Dados**: Simula um banco de dados simples com operações CRUD (Criar, Ler, Atualizar, Deletar).
+- **24 - Análise de Arquivos CSV**: Lê e processa arquivos CSV, realizando operações básicas.
+- **25 - Implementação de um Algoritmo de Compressão**: Implementa um algoritmo de compressão simples, como a codificação de Huffman ou Run-Length Encoding (RLE).
+
 ## Como Usar
 
 1. Navegue até a pasta do exercício desejado.
@@ -64,4 +80,3 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request se você encontrar erros ou tiver sugestões de melhorias.
 
----
