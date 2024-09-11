@@ -5,9 +5,10 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 
 ## Estrutura do Repositório
 
-### Básico
-
 ```
+
+ ***Básico
+
 .
 ├── 01 - Hello World
 ├── 02 - Entrada e Saída
@@ -20,7 +21,7 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 ├── 09 - Sequência de Fibonacci
 ├── 10 - Contagem de Palavras
 
-### Intermediário
+***Intermediário
 
 .
 ├── 11 - Contador de Caracteres
@@ -34,7 +35,7 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 ├── 19 - Calculadora de Matrizes
 ├── 20 - Recursão
 
-### Avançado
+***Avançado
 
 .
 ├── 21 - Algoritmo de Dijkstra
