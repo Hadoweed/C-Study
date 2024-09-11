@@ -36,8 +36,6 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 
 ## Descrição dos Exercícios
 
-### Básico
-
 - **01 - Hello World**: Exibe "Hello, World!" na tela.
 - **02 - Entrada e Saída**: Lê um nome do usuário e exibe uma saudação personalizada.
 - **03 - Soma de Dois Números**: Lê dois números inteiros e exibe a soma deles.
@@ -48,9 +46,6 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 - **08 - Verificação de Número Primo**: Verifica se um número é primo.
 - **09 - Sequência de Fibonacci**: Gera e exibe os primeiros N números da sequência de Fibonacci.
 - **10 - Contagem de Palavras**: Conta o número de palavras em uma frase fornecida pelo usuário.
-
-### Intermediário
-
 - **11 - Ordenação de Vetores**: Ordena um vetor de números inteiros usando o método Bubble Sort.
 - **12 - Busca Binária**: Encontra um elemento em um vetor ordenado usando busca binária.
 - **13 - Matriz Transposta**: Exibe a transposta de uma matriz fornecida.
@@ -61,9 +56,6 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 - **18 - Estrutura de Dados - Lista Ligada**: Implementa uma lista ligada simples.
 - **19 - Arquivo de Texto**: Lê e escreve em arquivos de texto.
 - **20 - Calculadora de Matrizes**: Realiza operações básicas com matrizes (adição, subtração).
-
-### Avançado
-
 - **21 - Algoritmo de Dijkstra**: Encontra o caminho mais curto em um grafo usando o algoritmo de Dijkstra.
 - **22 - Recursão**: Resolve um problema clássico (como a Torre de Hanoi) usando recursão.
 - **23 - Simulação de Banco de Dados**: Simula um banco de dados simples com operações CRUD (Criar, Ler, Atualizar, Deletar).
