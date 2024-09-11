@@ -26,12 +26,8 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 ├── 17 - Jogo da Forca
 ├── 18 - Estrutura de Dados - Lista Ligada
 ├── 19 - Arquivo de Texto
-├── 20 - Calculadora de Matrizes
-├── 21 - Algoritmo de Dijkstra
-├── 22 - Recursão
-├── 23 - Simulação de Banco de Dados
-├── 24 - Análise de Arquivos CSV
-└── 25 - Implementação de um Algoritmo de Compressão
+└── 20 - Calculadora de Matrizes
+
 ```
 
 ## Descrição dos Exercícios
@@ -57,11 +53,6 @@ Este repositório contém uma coleção de exercícios em C, organizados em past
 - **18 - Estrutura de Dados - Lista Ligada**: Implementa uma lista ligada simples.
 - **19 - Arquivo de Texto**: Lê e escreve em arquivos de texto.
 - **20 - Calculadora de Matrizes**: Realiza operações básicas com matrizes (adição, subtração).
-- **21 - Algoritmo de Dijkstra**: Encontra o caminho mais curto em um grafo usando o algoritmo de Dijkstra.
-- **22 - Recursão**: Resolve um problema clássico (como a Torre de Hanoi) usando recursão.
-- **23 - Simulação de Banco de Dados**: Simula um banco de dados simples com operações CRUD (Criar, Ler, Atualizar, Deletar).
-- **24 - Análise de Arquivos CSV**: Lê e processa arquivos CSV, realizando operações básicas.
-- **25 - Implementação de um Algoritmo de Compressão**: Implementa um algoritmo de compressão simples, como a codificação de Huffman ou Run-Length Encoding (RLE).
 
 ## Como Usar
 
