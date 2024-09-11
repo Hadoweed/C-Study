@@ -1,54 +1,45 @@
 
 # Exercícios em C
 
-Este repositório contém uma coleção de exercícios em C, organizados em pastas nomeadas de acordo com o formato "número - nome". Eles vão do básico ao avançado, cobrindo uma variedade de tópicos e conceitos.
+Este repositório contém uma coleção de exercícios em C, organizados por nível de dificuldade. Os níveis são classificados como Básico, Intermediário e Avançado.
 
 ## Estrutura do Repositório
 
 ```
-
- ***Básico
-
 .
-├── 01 - Hello World
-├── 02 - Entrada e Saída
-├── 03 - Soma de Dois Números
-├── 04 - Calculadora Simples
-├── 05 - Conversão de Temperatura
-├── 06 - Tabuada
-├── 07 - Fatorial
-├── 08 - Verificação de Número Primo
-├── 09 - Sequência de Fibonacci
-├── 10 - Contagem de Palavras
-
-***Intermediário
-
-.
-├── 11 - Contador de Caracteres
-├── 12 - Ordenação de Vetores
-├── 13 - Busca Binária
-├── 14 - Matriz Transposta
-├── 15 - Manipulação de Strings
-├── 16 - Sistema de Notas
-├── 17 - Estrutura de Dados - Lista Ligada
-├── 18 - Arquivo de Texto
-├── 19 - Calculadora de Matrizes
-├── 20 - Recursão
-
-***Avançado
-
-.
-├── 21 - Algoritmo de Dijkstra
-├── 22 - Simulação de Banco de Dados
-├── 23 - Análise de Arquivos CSV
-├── 24 - Implementação de um Algoritmo de Compressão
-├── 25 - Projeto de Jogo da Forca
-├── 26 - Simulação de Algoritmo de Ordenação
-├── 27 - Manipulação de Arquivos Binários
-├── 28 - Sudoku Solver
-├── 29 - Analisador de Expressões Matemáticas
-└── 30 - Jogo da Velha
-
+├── Básico
+│   ├── 01 - Hello World
+│   ├── 02 - Entrada e Saída
+│   ├── 03 - Soma de Dois Números
+│   ├── 04 - Calculadora Simples
+│   ├── 05 - Conversão de Temperatura
+│   ├── 06 - Tabuada
+│   ├── 07 - Fatorial
+│   ├── 08 - Verificação de Número Primo
+│   ├── 09 - Sequência de Fibonacci
+│   └── 10 - Contagem de Palavras
+├── Intermediário
+│   ├── 11 - Contador de Caracteres
+│   ├── 12 - Ordenação de Vetores
+│   ├── 13 - Busca Binária
+│   ├── 14 - Matriz Transposta
+│   ├── 15 - Manipulação de Strings
+│   ├── 16 - Sistema de Notas
+│   ├── 17 - Estrutura de Dados - Lista Ligada
+│   ├── 18 - Arquivo de Texto
+│   ├── 19 - Calculadora de Matrizes
+│   └── 20 - Recursão
+└── Avançado
+    ├── 21 - Algoritmo de Dijkstra
+    ├── 22 - Simulação de Banco de Dados
+    ├── 23 - Análise de Arquivos CSV
+    ├── 24 - Implementação de um Algoritmo de Compressão
+    ├── 25 - Projeto de Jogo da Forca
+    ├── 26 - Simulação de Algoritmo de Ordenação
+    ├── 27 - Manipulação de Arquivos Binários
+    ├── 28 - Sudoku Solver
+    ├── 29 - Analisador de Expressões Matemáticas
+    └── 30 - Jogo da Velha
 ```
 
 ## Descrição dos Exercícios
